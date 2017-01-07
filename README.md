@@ -104,7 +104,7 @@ Papers for each week will be posted here at least 1 week in advance
 
 Students will gain:
 
-* Knowledge in foundational isses in plant evolution from classic and current perspectives
+* Knowledge in foundational issues in plant evolution from classic and current perspectives
 * The ability to think critically 
 * Scientific communication skills
 
