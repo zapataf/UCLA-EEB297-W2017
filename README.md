@@ -61,7 +61,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 6 Isolation and the origin of species
 
-  Chapter 6
+  Chapter 6 *Note we are skipping chapter 5*
   
   Papers TBD
   
@@ -85,7 +85,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 9 Apomixis in relation to variation and evolution
 
-  Chapter 10
+  Chapter 10 *Note we are skipping chapter 9*
   
   Papers TBD
   
@@ -93,7 +93,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
-  Chapter 14
+  Chapter 14 *Note we are skipping chapters 11-13*
   
   Papers TBD
   
