@@ -25,7 +25,7 @@ This is a discussion-based seminar with short presentations of the topic to be d
 
 Papers for each week will be posted here at least 1 week in advance
 
-* Week 1 Introdutiion to the seminar, discussion of course format/mechanics, topics assignment
+* Week 1 Introduction to the seminar, discussion of course format/mechanics, topics assignment
 
 * Week 2 Description and analysis of variation patterns
 
