@@ -15,7 +15,7 @@
 
 ## Course rationale
 
-The modern [evolutionary synthesis](https://en.wikipedia.org/wiki/Modern_evolutionary_synthesis) was a fundamental landmark in the growth and development of biological thought and the theory of evolutionary biology. There are (at least) four seminal publications resulting from this synthesis: [Dobzhansky, 1937](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species), [Mayr, 1942](https://en.wikipedia.org/wiki/Systematics_and_the_Origin_of_Species), [Simpson, 1944](https://en.wikipedia.org/wiki/Tempo_and_Mode_in_Evolution), and [Stebbins, 1950](https://en.wikipedia.org/wiki/Variation_and_Evolution_in_Plants). In this course we will focus on Stebbins' book: **Variation and Evolution in Plants**. Several ideas and hypotheses summarized in this book have inspired generations of botanists and evolutionary biologists for the last 60 years, and some key publications have emerged from this work. However, many key concepts and hypotheses have not been addressed or revisited given the advances in genomic, ecological, spatial and climatic data now available. The idea of this seminar is to read the book (the original edition from 1950 - available on Amazon for about $45), focusing on one chapter each week along with one or two “current” (or as current as possible) papers addressing the same topic of the chapter. The main goal would be to explore classic/foundational problems in plant evolution, and generate/participate in interesting thought-provoking discussions on how we could address such questions/hypotheses today, what experiments we need to do, what kind of data are we missing, how can we move the field forward, what questions/hypotheses are we missing, etc. Although the main conceptual ideas will be presented in the context of plants, we may read current literature from a broader taxonomic perspective.
+The modern [evolutionary synthesis](https://en.wikipedia.org/wiki/Modern_evolutionary_synthesis) was a fundamental landmark in the growth and development of biological thought and the theory of evolutionary biology. There are (at least) four seminal publications resulting from this synthesis: [Dobzhansky 1937](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species), [Mayr 1942](https://en.wikipedia.org/wiki/Systematics_and_the_Origin_of_Species), [Simpson 1944](https://en.wikipedia.org/wiki/Tempo_and_Mode_in_Evolution), and [Stebbins 1950](https://en.wikipedia.org/wiki/Variation_and_Evolution_in_Plants). In this course we will focus on Stebbins' book: **Variation and Evolution in Plants**. Several ideas and hypotheses summarized in this book have inspired generations of botanists and evolutionary biologists for the last 60 years, and some key publications have emerged from this work. However, many key concepts and hypotheses have not been addressed or revisited given the advances in genomic, ecological, spatial and climatic data now available. The idea of this seminar is to read the book (the original edition from 1950 - available on Amazon for about $45), focusing on one chapter each week along with one or two “current” (or as current as possible) papers addressing the same topic of the chapter. The main goal would be to explore classic/foundational problems in plant evolution, and generate/participate in interesting thought-provoking discussions on how we could address such questions/hypotheses today, what experiments we need to do, what kind of data are we missing, how can we move the field forward, what questions/hypotheses are we missing, etc. Although the main conceptual ideas will be presented in the context of plants, we may read current literature from a broader taxonomic perspective.
 
 ## Course format
 
@@ -100,4 +100,14 @@ Papers for each week will be posted here at least 1 week in advance
   Lead: TBD
   
   
-    
+## Learning objectives
+
+Students will gain:
+
+* Knowledge in foundational isses in plant evolution from classic and current perspectives
+* The ability to think critically 
+* Scientific communication skills
+
+## Grading
+
+33% Attendance and preparation, 33% Presentation and lead discussion, 33% Active participation in discussions, 1% Fill course evaluations
