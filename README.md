@@ -15,21 +15,29 @@
 
 ## Course rationale
 
-The modern [evolutionary synthesis](https://en.wikipedia.org/wiki/Modern_evolutionary_synthesis) was a fundamental landmark in the growth and development of biological thought and the theory of evolutionary biology. There are (at least) four seminal publications resulting from this synthesis: [Dobzhansky 1937](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species), [Mayr 1942](https://en.wikipedia.org/wiki/Systematics_and_the_Origin_of_Species), [Simpson 1944](https://en.wikipedia.org/wiki/Tempo_and_Mode_in_Evolution), and [Stebbins 1950](https://en.wikipedia.org/wiki/Variation_and_Evolution_in_Plants). In this course we will focus on Stebbins' book: **Variation and Evolution in Plants**. Many ideas and hypotheses summarized in this book have inspired generations of botanists and evolutionary biologists for the last 60 years, and some key publications have emerged from this work. However, other concepts and hypotheses have not been addressed or revisited given the advances in genomic, ecological, spatial and climatic data now available. The idea of this seminar is to read the book (the original edition from 1950 - available on Amazon for about $45), focusing on one chapter each week along with one or two “current” (or as current as possible) papers addressing the same topic of the chapter. The main goal would be to explore classic/foundational problems in plant evolution, and generate/participate in interesting thought-provoking discussions on how much progress have we made on key ideas in plant evolution, how could we address some questions/hypotheses today, what experiments we need to carry out, what kind of data are we missing, how can we move the field forward, what questions/hypotheses are we missing, etc. Although the main conceptual ideas will be presented in the context of plants, we may read current literature from a broader taxonomic perspective.
+The modern [evolutionary synthesis](https://en.wikipedia.org/wiki/Modern_evolutionary_synthesis) was a fundamental landmark in the growth and development of biological thought and the theory of evolutionary biology. There are (at least) four seminal publications resulting from this synthesis: [Dobzhansky 1937](https://en.wikipedia.org/wiki/Genetics_and_the_Origin_of_Species), [Mayr 1942](https://en.wikipedia.org/wiki/Systematics_and_the_Origin_of_Species), [Simpson 1944](https://en.wikipedia.org/wiki/Tempo_and_Mode_in_Evolution), and [Stebbins 1950](https://en.wikipedia.org/wiki/Variation_and_Evolution_in_Plants). In this course we will focus on Stebbins' book: **Variation and Evolution in Plants** (VEP). Many ideas and hypotheses summarized in this book have inspired generations of botanists and evolutionary biologists for the last 60 years, and some key publications have emerged from this work. However, other concepts and hypotheses have not been addressed or revisited given the advances in genomic, ecological, spatial and climatic data now available. The idea of this seminar is to read the book (the original edition from 1950 - available on Amazon for about $45), focusing on one chapter each week along with one or two “current” (or as current as possible) papers addressing the same topic of the chapter. The main goal would be to explore classic/foundational problems in plant evolution, and generate/participate in interesting thought-provoking discussions on how much progress have we made on key ideas in plant evolution, how could we address some questions/hypotheses today, what experiments we need to carry out, what kind of data are we missing, how can we move the field forward, what questions/hypotheses are we missing, etc. Although the main conceptual ideas will be presented in the context of plants, we may read current literature from a broader taxonomic perspective.
 
 ## Course format
 
 This is a discussion-based seminar with short presentations of the topic to be discussed each week. Readings will be a mix of one chapter of Stebbins' book and at least one, maybe two, current paper(s) (more papers will be suggested as supplementary reading for those interested or to stimulate discussion). Each week, one student will be responsible for providing a short presentation of the book chapter and lead the first half of the discussion. A second student, will lead the discussion of the current paper(s). The overall idea would be to focus on the "big picture" and not to get bog down into *all* the details (as interesting as they might be), particulary while reading the book chapters. Becuase each book chapter usually covers a broad range of topics, the discussion of the current papers sometimes will be focused on just one or a couple of ideas. The hope is to do the readings, take notes on particular hypotheses/ideas, and think forward. No one is an expert in all topics, so hopefully we will all learn together. 
 
+## Learning objectives
+
+In this seminar, students will:
+
+* Gain knowledge about foundational issues in plant evolution from classic and current perspectives
+* Develop the ability to identify and explain key concepts in plant evolution, and expand on the most significant conclusions presented in the readings 
+* Develop scientific communication skills
+
 ## Schedule
 
-Papers for each week will be posted here at least 1 week in advance
+Papers for each week will be posted at least one week in advance
 
 * Week 1 Introduction to the seminar, discussion of course format/mechanics, topics assignment
 
 * Week 2 Description and analysis of variation patterns
 
-  Chapter 1
+  VEP Chapter 1 
   
   Papers TBD
   
@@ -37,7 +45,7 @@ Papers for each week will be posted here at least 1 week in advance
 
 * Week 3 Examples of variation patterns within species and genera
 
-  Chapter 2
+  VEP Chapter 2
   
   Papers TBD
   
@@ -45,7 +53,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 4 The basis of individual variation
 
-  Chapter 3
+  VEP Chapter 3
   
   Papers TBD
   
@@ -53,7 +61,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 5 Natural selection and variation in populations
 
-  Chapter 4
+  VEP Chapter 4
   
   Papers TBD
   
@@ -61,7 +69,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 6 Isolation and the origin of species
 
-  Chapter 6 [**Note we are skipping chapter 5**]
+  VEP Chapter 6 [**Note we are skipping chapter 5**]
   
   Papers TBD
   
@@ -69,7 +77,7 @@ Papers for each week will be posted here at least 1 week in advance
 
 * Week 7 Hybridization and its effects
 
-  Chapter 7
+  VEP Chapter 7
   
   Papers TBD
   
@@ -77,7 +85,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 8 Polyploidy I: Occurence and nature of polyploid types
 
-  Chapter 8
+  VEP Chapter 8
   
   Papers TBD
   
@@ -85,7 +93,7 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 9 Apomixis in relation to variation and evolution
 
-  Chapter 10 [**Note we are skipping chapter 9**]
+  VEP Chapter 10 [**Note we are skipping chapter 9**]
   
   Papers TBD
   
@@ -93,21 +101,12 @@ Papers for each week will be posted here at least 1 week in advance
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
-  Chapter 14 [**Note we are skipping chapters 11-13**]
+  VEP Chapter 14 [**Note we are skipping chapters 11-13**]
   
   Papers TBD
   
   Lead: TBD
   
-  
-## Learning objectives
-
-Students will gain:
-
-* Knowledge in foundational issues in plant evolution from classic and current perspectives
-* The ability to think critically 
-* Scientific communication skills
-
 ## Grading
 
 33% Attendance and preparation, 33% Presentation and lead discussion, 33% Active participation in discussions, 1% Fill course evaluations
