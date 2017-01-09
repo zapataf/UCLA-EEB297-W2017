@@ -41,7 +41,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: Felipe (chapter and book)
+  Lead: Felipe (Chapter and Paper)
 
 * Week 3 Examples of variation patterns within species and genera
 
