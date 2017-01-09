@@ -41,7 +41,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: Felipe
+  Lead: Felipe (chapter and book)
 
 * Week 3 Examples of variation patterns within species and genera
 
@@ -49,7 +49,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Brandon (Chapter), Gaurav (Paper)
   
 * Week 4 The basis of individual variation
 
@@ -57,7 +57,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Camila (Chapter), Alayna (Paper)
   
 * Week 5 Natural selection and variation in populations
 
@@ -65,7 +65,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Grace (Chapter), Brandon (Paper)
   
 * Week 6 Isolation and the origin of species
 
@@ -73,7 +73,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Ting (Chapter), Marcel (Paper)
 
 * Week 7 Hybridization and its effects
 
@@ -81,7 +81,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Bernard (Chapter), Bernard (Paper)
   
 * Week 8 Polyploidy I: Occurence and nature of polyploid types
 
@@ -89,7 +89,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Gaurav (Chapter), Chris (Paper)
   
 * Week 9 Apomixis in relation to variation and evolution
 
@@ -97,7 +97,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Chirs (Chapter), Ting (Paper)
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
@@ -105,7 +105,7 @@ Papers for each week will be posted at least one week in advance
   
   Papers TBD
   
-  Lead: TBD
+  Lead: Justin (Chapter), Marcel (Paper)
   
 ## Grading
 
