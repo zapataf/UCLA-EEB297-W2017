@@ -37,15 +37,17 @@ Papers for each week will be posted at least one week in advance
 
 * Week 2 Description and analysis of variation patterns
 
-  VEP Chapter 1 
+  VEP [Chapter 1](./readings/VEP_Ch1.PDF) 
   
-  Papers TBD
+  Papers [Zamudio et al. 2016](./readings/Proc._Natl._Acad._Sci._U.S.A._2016_Zamudio.pdf)
+  
+  **Optional readings:** [1](./readings/Biol_Rev_2014_McKay.pdf), [2](./readings/Systematic_Biology_2012_Zapata.pdf)
   
   Lead: Felipe (Chapter and Paper)
 
 * Week 3 Examples of variation patterns within species and genera
 
-  VEP Chapter 2
+  VEP [Chapter 2](./readings/VEP_Ch2.PDF)
   
   Papers TBD
   
@@ -53,7 +55,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 4 The basis of individual variation
 
-  VEP Chapter 3
+  VEP [Chapter 3](./readings/VEP_Ch3.PDF)
   
   Papers TBD
   
