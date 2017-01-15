@@ -34,6 +34,7 @@ In this seminar, students will:
 Papers for each week will be posted at least one week in advance
 
 * Week 1 Introduction to the seminar, discussion of course format/mechanics, topics assignment
+  **Optional readings:** [1](./readings/American_Journal_of_Botany_1997_Smocovitis.pdf), [2](./readings/Sroceedings_of_the_National_Academy_of_Sciences_2000_Raven.pdf)
 
 * Week 2 Description and analysis of variation patterns
 
