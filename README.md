@@ -51,9 +51,11 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 2](./readings/VEP_Ch2.PDF)
   
-  Papers TBD
+  Papers [Lowry 2012](./readings/Biological_Journal_of_the_Linnean_Society_2012_Lowry.pdf)
   
   Lead: Brandon (Chapter), Gaurav (Paper)
+
+  **Optional readings:** [1](./readings/Botanical_Journal_of_the_Linnean_Society_2016_Sullivan.pdf), [2](./readings/Evolution_2008_Ramsey.pdf)
   
 * Week 4 The basis of individual variation
 
