@@ -39,7 +39,7 @@ Papers for each week will be posted at least one week in advance
 
 * Week 2 Description and analysis of variation patterns
 
-  VEP [Chapter 1](./readings/VEP_Ch1.PDF) 
+  VEP [Chapter 1](./readings/VEP_Ch1.PDF) [References](./readings/VEP_References.PDF)
   
   Papers [Zamudio et al. 2016](./readings/Proc._Natl._Acad._Sci._U.S.A._2016_Zamudio.pdf)
   
@@ -67,7 +67,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 5 Natural selection and variation in populations
 
-  VEP Chapter 4
+  VEP [Chapter 4](./readings/VEP_Ch4.PDF)
   
   Papers TBD
   
@@ -75,7 +75,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 6 Isolation and the origin of species
 
-  VEP Chapter 6 [**Note we are skipping chapter 5**]
+  VEP [Chapter 6](./readings/VEP_Ch6.PDF) [**Note we are skipping chapter 5**]
   
   Papers TBD
   
@@ -83,7 +83,7 @@ Papers for each week will be posted at least one week in advance
 
 * Week 7 Hybridization and its effects
 
-  VEP Chapter 7
+  VEP [Chapter 7](./readings/VEP_Ch7.PDF)
   
   Papers TBD
   
@@ -91,7 +91,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 8 Polyploidy I: Occurence and nature of polyploid types
 
-  VEP Chapter 8
+  VEP [Chapter 8](./readings/VEP_Ch8.PDF)
   
   Papers TBD
   
@@ -99,7 +99,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 9 Apomixis in relation to variation and evolution
 
-  VEP Chapter 10 [**Note we are skipping chapter 9**]
+  VEP [Chapter 10](./readings/VEP_Ch10.PDF) [**Note we are skipping chapter 9**]
   
   Papers TBD
   
@@ -107,7 +107,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
-  VEP Chapter 14 [**Note we are skipping chapters 11-13**]
+  VEP [Chapter 14](./readings/VEP_Ch14.PDF) [**Note we are skipping chapters 11-13**]
   
   Papers TBD
   
