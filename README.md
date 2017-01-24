@@ -55,7 +55,7 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Brandon (Chapter), Gaurav (Paper)
 
-  **Optional readings:** [1](./readings/Botanical_Journal_of_the_Linnean_Society_2016_Sullivan.pdf), [2](./readings/Evolution_2008_Ramsey.pdf)
+  **Optional readings:** [1](./readings/Botanical_Journal_of_the_Linnean_Society_2016_Sullivan.pdf), [2](./readings/Evolution_2008_Ramsey.pdf), [3](./readings/cruickshank_hahn_2014.pdf)
   
 * Week 4 The basis of individual variation
 
@@ -85,7 +85,7 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 7](./readings/VEP_Ch7.PDF)
   
-  Papers TBD
+  Papers [Payseur and Rieseberg 2016](./readings/payseur_rieseberg_2016.pdf)
   
   Lead: Bernard (Chapter), Bernard (Paper)
   
