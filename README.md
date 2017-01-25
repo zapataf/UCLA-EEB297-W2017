@@ -35,15 +35,15 @@ Papers for each week will be posted at least one week in advance
 
 * Week 1 Introduction to the seminar, discussion of course format/mechanics, topics assignment
 
-  **Optional readings:** [1](./readings/American_Journal_of_Botany_1997_Smocovitis.pdf), [2](./readings/Sroceedings_of_the_National_Academy_of_Sciences_2000_Raven.pdf)
+  **Optional readings:** [1](http://www.amjbot.org/content/84/12/1625.abstract), [2](http://dx.doi.org/10.1073/pnas.97.13.6945)
 
 * Week 2 Description and analysis of variation patterns
 
   VEP [Chapter 1](./readings/VEP_Ch1.PDF) [References](./readings/VEP_References.PDF)
   
-  Papers [Zamudio et al. 2016](./readings/Proc._Natl._Acad._Sci._U.S.A._2016_Zamudio.pdf)
+  Papers [Zamudio et al. 2016](http://dx.doi.org/10.1073/pnas.1602237113)
   
-  **Optional readings:** [1](./readings/Biol_Rev_2014_McKay.pdf), [2](./readings/Systematic_Biology_2012_Zapata.pdf)
+  **Optional readings:** [1](http://dx.doi.org/10.1111/brv.12127), [2](http://dx.doi.org/10.1093/sysbio/syr084)
   
   Lead: Felipe (Chapter and Paper)
 
@@ -51,19 +51,21 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 2](./readings/VEP_Ch2.PDF)
   
-  Papers [Lowry 2012](./readings/Biological_Journal_of_the_Linnean_Society_2012_Lowry.pdf)
+  Papers [Lowry 2012](http://dx.doi.org/10.1111/j.1095-8312.2012.01867.x)
   
   Lead: Brandon (Chapter), Gaurav (Paper)
 
-  **Optional readings:** [1](./readings/Botanical_Journal_of_the_Linnean_Society_2016_Sullivan.pdf), [2](./readings/Evolution_2008_Ramsey.pdf), [3](./readings/cruickshank_hahn_2014.pdf)
+  **Optional readings:** [1](http://dx.doi.org/10.1111/boj.12393), [2](http://dx.doi.org/10.1111/j.1558-5646.2007.00264.x), [3](http://dx.doi.org/10.1111/mec.12796)
   
 * Week 4 The basis of individual variation
 
   VEP [Chapter 3](./readings/VEP_Ch3.PDF)
   
-  Papers TBD
+  Papers [Wray](http://dx.doi.org/10.1146/annurev-ecolsys-110512-135828)
   
   Lead: Camila (Chapter), Alayna (Paper)
+
+  **Optional readings:*** [1](http://dx.doi.org/10.1073 pnas.0504210102), [2](http://dx.doi.org/10.1016/j.cub.2016.02.033), [3](http://dx.doi.org/10.1016/j.tplants.2016.05.004), [4](http://dx.doi.org/10.1016/j.gde.2015.08.006)
   
 * Week 5 Natural selection and variation in populations
 
@@ -85,7 +87,7 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 7](./readings/VEP_Ch7.PDF)
   
-  Papers [Payseur and Rieseberg 2016](./readings/payseur_rieseberg_2016.pdf)
+  Papers [Payseur and Rieseberg 2016](http://dx.doi.org/10.1111/mec.13557)
   
   Lead: Bernard (Chapter), Bernard (Paper)
   
