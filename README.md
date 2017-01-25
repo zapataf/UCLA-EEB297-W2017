@@ -65,7 +65,7 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Camila (Chapter), Alayna (Paper)
 
-  **Optional readings:*** [1](http://dx.doi.org/10.1073/pnas.0504210102), [2](http://dx.doi.org/10.1016/j.cub.2016.02.033), [3](http://dx.doi.org/10.1016/j.tplants.2016.05.004), [4](http://dx.doi.org/10.1016/j.gde.2015.08.006)
+  **Optional readings:** [1](http://dx.doi.org/10.1073/pnas.0504210102), [2](http://dx.doi.org/10.1016/j.cub.2016.02.033), [3](http://dx.doi.org/10.1016/j.tplants.2016.05.004), [4](http://dx.doi.org/10.1016/j.gde.2015.08.006)
   
 * Week 5 Natural selection and variation in populations
 
