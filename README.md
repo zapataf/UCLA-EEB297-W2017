@@ -55,7 +55,7 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Brandon (Chapter), Gaurav (Paper)
 
-  **Optional readings:** [1](http://dx.doi.org/10.1111/boj.12393), [2](http://dx.doi.org/10.1111/j.1558-5646.2007.00264.x), [3](http://dx.doi.org/10.1111/mec.12796)
+  **Optional readings:** [1](http://dx.doi.org/10.1111/boj.12393), [2](http://dx.doi.org/10.1111/j.1558-5646.2007.00264.x), [3](http://dx.doi.org/10.1111/mec.12796), [4](https://doi.org/10.1111/j.1601-5223.1925.tb03139.x)
   
 * Week 4 The basis of individual variation
 
