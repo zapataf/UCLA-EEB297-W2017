@@ -75,15 +75,17 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Grace (Chapter), Brandon (Paper)
 
-  **Optional readings:** [1](http://dx.doi.org/10.1002/bies.201500079), [2](http://dx.doi.org/10.1038/nature14181), [3](http://dx.doi.org/10.1111/j.1469-8137.2012.04112.x), [4](http://dx.doi.org/10.1111/nph.13761), [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209161/), [6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209197/), [7](http://dx.doi.org/10.1111/j.0014-3820.2001.tb00650.x), [8](http://dx.doi.org/10.1111/j.1558-5646.2007.00219.x)
+  **Optional readings:** [1](http://dx.doi.org/10.1002/bies.201500079), [2](http://dx.doi.org/10.1038/nature14181), [3](http://dx.doi.org/10.1111/j.1469-8137.2012.04112.x), [4](http://dx.doi.org/10.1111/nph.13761), [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209161/), [6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209197/), [7](http://dx.doi.org/10.1111/j.0014-3820.2001.tb00650.x), [8](http://dx.doi.org/10.1111/j.1558-5646.2007.00219.x), [9](http://dx.doi.org/10.1111/mec.13743)
   
 * Week 6 Isolation and the origin of species
 
   VEP [Chapter 6](./readings/VEP_Ch6.PDF) [**Note we are skipping chapter 5**]
   
-  Papers TBD
+  Papers [Dunning et al. 2016](http://dx.doi.org/10.1111/jeb.12895)
   
   Lead: Ting (Chapter), Marcel (Paper)
+
+  **Optional readings:** [1](http://dx.doi.org/10.1111/jeb.12933), [2](http://dx.doi.org/10.1111/nph.13424), [2](http://dx.doi.org/10.1126/science.1137729), [3](http://dx.doi.org/10.1111/geb.12469), [4](http://dx.doi.org/10.1093/aob/mct290), [5](http://dx.doi.org/10.1038/nrg3644)
 
 * Week 7 Hybridization and its effects
 
