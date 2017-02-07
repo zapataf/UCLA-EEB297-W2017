@@ -85,7 +85,7 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Ting (Chapter), Marcel (Paper)
 
-  **Optional readings:** [1](http://dx.doi.org/10.1111/jeb.12933), [2](http://dx.doi.org/10.1111/nph.13424), [2](http://dx.doi.org/10.1126/science.1137729), [3](http://dx.doi.org/10.1111/geb.12469), [4](http://dx.doi.org/10.1093/aob/mct290), [5](http://dx.doi.org/10.1038/nrg3644)
+  **Optional readings:** [1](http://dx.doi.org/10.1111/jeb.12933), [2](http://dx.doi.org/10.1111/nph.13424), [3](http://dx.doi.org/10.1126/science.1137729), [4](http://dx.doi.org/10.1111/geb.12469), [5](http://dx.doi.org/10.1093/aob/mct290), [6](http://dx.doi.org/10.1038/nrg3644)
 
 * Week 7 Hybridization and its effects
 
