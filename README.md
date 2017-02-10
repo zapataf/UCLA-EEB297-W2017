@@ -91,6 +91,8 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Bernard (Chapter), Bernard (Paper)
   
+  **Optional readings:** [1](http://dx.doi.org/10.1002/bies.201500149), [2](10.3732/ajb.1400024), [3](http://dx.doi.org/doi:10.1038/ng.3617)
+  
 * Week 8 Polyploidy I: Occurence and nature of polyploid types
 
   VEP [Chapter 8](./readings/VEP_Ch8.PDF)
