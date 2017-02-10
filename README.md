@@ -9,7 +9,7 @@
     Location: MS 3915H
     
     Instructor: Felipe Zapata
-    Office hours: Wednesday 2-2:30pm, LSB 3205
+    Office hours: Wednesday 2-2:30pm, LSB 3205 or by email
     Please, prepend the subject line of all course related emails with "VEP"
 
 
@@ -39,7 +39,7 @@ Papers for each week will be posted at least one week in advance
 
 * Week 2 Description and analysis of variation patterns
 
-  VEP [Chapter 1](./readings/VEP_Ch1.PDF) [References](./readings/VEP_References.PDF)
+  VEP [Chapter 1](./readings/VEP_Ch1.PDF), [References](./readings/VEP_References.PDF)
   
   Papers [Zamudio et al. 2016](http://dx.doi.org/10.1073/pnas.1602237113)
   
@@ -55,13 +55,13 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Brandon (Chapter), Gaurav (Paper)
 
-  **Optional readings:** [1](http://dx.doi.org/10.1111/boj.12393), [2](http://dx.doi.org/10.1111/j.1558-5646.2007.00264.x), [3](http://dx.doi.org/10.1111/mec.12796)
+  **Optional readings:** [1](http://dx.doi.org/10.1111/boj.12393), [2](http://dx.doi.org/10.1111/j.1558-5646.2007.00264.x), [3](http://dx.doi.org/10.1111/mec.12796), [4](https://doi.org/10.1111/j.1601-5223.1925.tb03139.x)
   
 * Week 4 The basis of individual variation
 
   VEP [Chapter 3](./readings/VEP_Ch3.PDF)
   
-  Papers [Wray](http://dx.doi.org/10.1146/annurev-ecolsys-110512-135828)
+  Papers [Wray 2003](http://dx.doi.org/10.1146/annurev-ecolsys-110512-135828)
   
   Lead: Camila (Chapter), Alayna (Paper)
 
@@ -71,17 +71,21 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 4](./readings/VEP_Ch4.PDF)
   
-  Papers TBD
+  Papers [Grant and Grant 2003](http://dx.doi.org/10.1126/science.1128374)
   
   Lead: Grace (Chapter), Brandon (Paper)
+
+  **Optional readings:** [1](http://dx.doi.org/10.1002/bies.201500079), [2](http://dx.doi.org/10.1038/nature14181), [3](http://dx.doi.org/10.1111/j.1469-8137.2012.04112.x), [4](http://dx.doi.org/10.1111/nph.13761), [5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209161/), [6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1209197/), [7](http://dx.doi.org/10.1111/j.0014-3820.2001.tb00650.x), [8](http://dx.doi.org/10.1111/j.1558-5646.2007.00219.x), [9](http://dx.doi.org/10.1111/mec.13743)
   
 * Week 6 Isolation and the origin of species
 
   VEP [Chapter 6](./readings/VEP_Ch6.PDF) [**Note we are skipping chapter 5**]
   
-  Papers TBD
+  Papers [Dunning et al. 2016](http://dx.doi.org/10.1111/jeb.12895)
   
   Lead: Ting (Chapter), Marcel (Paper)
+
+  **Optional readings:** [1](http://dx.doi.org/10.1111/jeb.12933), [2](http://dx.doi.org/10.1111/nph.13424), [3](http://dx.doi.org/10.1126/science.1137729), [4](http://dx.doi.org/10.1111/geb.12469), [5](http://dx.doi.org/10.1093/aob/mct290), [6](http://dx.doi.org/10.1038/nrg3644)
 
 * Week 7 Hybridization and its effects
 
