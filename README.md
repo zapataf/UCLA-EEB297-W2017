@@ -95,15 +95,17 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Bernard (Chapter), Bernard (Paper)
   
-  **Optional readings:** [1](http://dx.doi.org/10.1002/bies.201500149), [2](http://dx.doi.org/10.3732/ajb.1400024), [3](http://dx.doi.org/doi:10.1038/ng.3617)
+  **Optional readings:** [1](http://dx.doi.org/10.1002/bies.201500149), [2](http://dx.doi.org/10.3732/ajb.1400024), [3](http://dx.doi.org/10.1038/ng.3617)
   
 * Week 8 Polyploidy I: Occurence and nature of polyploid types
 
   VEP [Chapter 8](./readings/VEP_Ch8.PDF)
   
-  Papers TBD
+  Papers [Soltis et al. 2016](http:/dx.doi.org/10.3732/ajb.1500501)
   
   Lead: Gaurav (Chapter), Chris (Paper)
+
+  **Optional readings:** [1](http://dx.doi.org/10.1016/j.pbi.2016.03.015), [2](http://dx.doi.org/10.1016/j.gde.2015.11.003), [3](http://dx.doi.org/10.3732/ajb.1500529), [4](http://dx.doi.org/10.3732/ajb.1600105), [5](http://dx.doi.org/10.1016/j.pbi.2016.01.002)
   
 * Week 9 Apomixis in relation to variation and evolution
 
