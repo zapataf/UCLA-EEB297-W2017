@@ -111,7 +111,7 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 10](./readings/VEP_Ch10.PDF) [**Note we are skipping chapter 9**]
   
-  Papers TBD
+  Papers: [Sears & Whitton 2016](http://dx.doi.org/10.3732/ajb.1600057), [Krak et al. 2013](http://dx.doi.org/10.1038/hdy.2012.100)
   
   Lead: Chirs (Chapter), Ting (Paper)
   
