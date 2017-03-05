@@ -114,6 +114,8 @@ Papers for each week will be posted at least one week in advance
   Papers: [Sears & Whitton 2016](http://dx.doi.org/10.3732/ajb.1600057), [Krak et al. 2013](http://dx.doi.org/10.1038/hdy.2012.100)
   
   Lead: Chirs (Chapter), Ting (Paper)
+
+  **Optional Readings:** [1](http://dx.doi.org/10.1146/annurev.genet.40.110405.090511), [2](http://dx.doi.org/10.1098/rstb.2003.1298), [3](http://dx.doi.org/10.1007/s00497-013-0222-y)
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
