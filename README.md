@@ -115,7 +115,7 @@ Papers for each week will be posted at least one week in advance
   
   Lead: Chirs (Chapter), Ting (Paper)
 
-  **Optional Readings:** [1](http://dx.doi.org/10.1146/annurev.genet.40.110405.090511), [2](http://dx.doi.org/10.1098/rstb.2003.1298), [3](http://dx.doi.org/10.1007/s00497-013-0222-y)
+  **Optional Readings:** [1](http://dx.doi.org/10.1146/annurev.genet.40.110405.090511), [2](http://dx.doi.org/10.1098/rstb.2003.1298), [3](http://dx.doi.org/10.1007/s00497-013-0222-y), [4](http://dx.doi.org/10.1105/tpc.017921)
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
