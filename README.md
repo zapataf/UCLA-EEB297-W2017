@@ -121,9 +121,11 @@ Papers for each week will be posted at least one week in advance
 
   VEP [Chapter 14](./readings/VEP_Ch14.PDF) [**Note we are skipping chapters 11-13**]
   
-  Papers TBD
+  Papers [Donoghue & Sanderson 2015](http://dx.doi.org/10.1111/nph.13367)
   
   Lead: Justin (Chapter), Marcel (Paper)
+
+  **Optional Readings:** [1](http://dx.doi.org/10.1073/pnas.0801962105), [2](http://dx.doi.org/10.1093/jxb/ert220), [3](http://dx.doi.org/10.1126/science.1163197), [4](http://dx.doi.org/10.1073/pnas.1213621109), [5](http://dx.doi.org/10.1126/science.1209926), [6](http://dx.doi.org/10.1038/ncomms2958), [7](http://dx.doi.org/10.1126/science.aag1772), [8](http://dx.doi.org/10.1093/sysbio/syu088), [9](http://dx.doi.org/10.1126/science.1194513), [10](http://dx.doi.org/10.1111/nph.13491)
   
 ## Grading
 
