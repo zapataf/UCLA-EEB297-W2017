@@ -39,7 +39,7 @@ Papers for each week will be posted at least one week in advance
 
 * Week 2 Description and analysis of variation patterns
 
-  VEP [Chapter 1](./readings/VEP_Ch1.PDF), [References](./readings/VEP_References.PDF)
+  VEP [Chapter 1]
   
   Papers [Zamudio et al. 2016](http://dx.doi.org/10.1073/pnas.1602237113)
   
@@ -49,7 +49,7 @@ Papers for each week will be posted at least one week in advance
 
 * Week 3 Examples of variation patterns within species and genera
 
-  VEP [Chapter 2](./readings/VEP_Ch2.PDF)
+  VEP [Chapter 2]
   
   Papers [Lowry 2012](http://dx.doi.org/10.1111/j.1095-8312.2012.01867.x)
   
@@ -59,7 +59,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 4 The basis of individual variation
 
-  VEP [Chapter 3](./readings/VEP_Ch3.PDF)
+  VEP [Chapter 3]
   
   Papers [Wray 2003](http://dx.doi.org/10.1146/annurev-ecolsys-110512-135828)
   
@@ -69,7 +69,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 5 Natural selection and variation in populations
 
-  VEP [Chapter 4](./readings/VEP_Ch4.PDF)
+  VEP [Chapter 4]
   
   Papers [Grant and Grant 2003](http://dx.doi.org/10.1126/science.1128374)
   
@@ -79,7 +79,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 6 Isolation and the origin of species
 
-  VEP [Chapter 6](./readings/VEP_Ch6.PDF) [**Note we are skipping chapter 5**]
+  VEP [Chapter 6] [**Note we are skipping chapter 5**]
   
   Papers [Dunning et al. 2016](http://dx.doi.org/10.1111/jeb.12895)
   
@@ -89,7 +89,7 @@ Papers for each week will be posted at least one week in advance
 
 * Week 7 Hybridization and its effects
 
-  VEP [Chapter 7](./readings/VEP_Ch7.PDF)
+  VEP [Chapter 7]
   
   Papers [Payseur and Rieseberg 2016](http://dx.doi.org/10.1111/mec.13557)
   
@@ -99,7 +99,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 8 Polyploidy I: Occurence and nature of polyploid types
 
-  VEP [Chapter 8](./readings/VEP_Ch8.PDF)
+  VEP [Chapter 8]
   
   Papers [Soltis et al. 2016](http:/dx.doi.org/10.3732/ajb.1500501)
   
@@ -109,7 +109,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 9 Apomixis in relation to variation and evolution
 
-  VEP [Chapter 10](./readings/VEP_Ch10.PDF) [**Note we are skipping chapter 9**]
+  VEP [Chapter 10] [**Note we are skipping chapter 9**]
   
   Papers: [Sears & Whitton 2016](http://dx.doi.org/10.3732/ajb.1600057), [Krak et al. 2013](http://dx.doi.org/10.1038/hdy.2012.100)
   
@@ -119,7 +119,7 @@ Papers for each week will be posted at least one week in advance
   
 * Week 10 Fossils, modern distribution patterns and rates of evolution
 
-  VEP [Chapter 14](./readings/VEP_Ch14.PDF) [**Note we are skipping chapters 11-13**]
+  VEP [Chapter 14] [**Note we are skipping chapters 11-13**]
   
   Papers [Donoghue & Sanderson 2015](http://dx.doi.org/10.1111/nph.13367)
   
